@@ -1,6 +1,6 @@
 {
-  "name": "pigeon-cluster",
-  "version": "0.0.6",
+  "name": "pigeon-cluster-zaid",
+  "version": "0.0.2",
   "description": "A pigeon-maps component that clusters your markers",
   "jsnext:main": "src/index.js",
   "main": "lib/react/index.js",
@@ -60,5 +60,11 @@
     "url": "github.com:amiiit/pigeon-cluster.git"
   },
   "author": "Amit Jakubowicz <jakubowicz.amit@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "pigeon",
+    "map",
+    "cluster",
+    "marker"
+  ]
 }

@@ -29,7 +29,7 @@ export default class Cluster extends Component {
     }
 
     generatePointsMap (children) {
-        const childrenArray = ensureArray(children).toJS()
+        const childrenArray = ensureArray(children)
         const pointsMap = {}
 
         childrenArray.forEach(child => {
